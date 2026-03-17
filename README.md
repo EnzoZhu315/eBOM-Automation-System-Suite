@@ -32,3 +32,6 @@ APIs: Smartsheet API, Google Drive API, Domo Dataset API.
 ERP Integration: SAP GUI Scripting (Document Management System).
 
 Environment: Cross-platform integration between local drives and Google Workspace.
+
+<img width="1276" height="440" alt="image" src="https://github.com/user-attachments/assets/71a8ed48-e7ec-4158-b385-5c43b3f4e056" />
+
